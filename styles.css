@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  width: 50%;
+  min-height: 150px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #344e41;
+  border-radius: 5px;
+}
+h1 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
